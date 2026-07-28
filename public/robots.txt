@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lenonbarber-snowy.vercel.app/sitemap.xml
