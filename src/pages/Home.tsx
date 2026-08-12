@@ -38,7 +38,7 @@ export default function Home() {
           <img
             src={lenonPhoto}
             alt={`${profile.name}, barbeiro`}
-            className="h-full w-full object-cover"
+            className="h-full w-full object-cover object-[center_22%]"
             width={96}
             height={96}
             loading="eager"
